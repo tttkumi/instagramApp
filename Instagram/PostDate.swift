@@ -23,7 +23,7 @@ class PostDate: NSObject {
     var isLiked: Bool = false
     var comment: String?
     //var comments: [String] = []
-    var comments: [[String:String?]] = []
+    var comments: [[String:String]] = []
     
     
     init(snapshot: DataSnapshot,myId: String){
@@ -46,7 +46,7 @@ class PostDate: NSObject {
         //self.comments = comments
         // }
         
-        if let comments = valueDictionary["comments"]as? [[String:String?]] {
+        if let comments = valueDictionary["comments"]as? [[String:String]] {
             self.comments = comments
         }
         
