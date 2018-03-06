@@ -122,9 +122,9 @@
 		5E1E5F7420244203009E5607 = {
 			isa = PBXGroup;
 			children = (
+				7C7B65DA5DB851ECCF691A34 /* Pods */,
 				5E1E5F7F20244203009E5607 /* Instagram */,
 				5E1E5F7E20244203009E5607 /* Products */,
-				7C7B65DA5DB851ECCF691A34 /* Pods */,
 				91ADD67270B1D89EB8D1E52C /* Frameworks */,
 			);
 			sourceTree = "<group>";
