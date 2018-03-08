@@ -104,7 +104,7 @@
                 <outlet property="commentLabel" destination="gFd-gZ-oLe" id="DRV-zO-Qvh"/>
                 <outlet property="dateLabel" destination="hw2-VG-rKr" id="zdu-vE-P0c"/>
                 <outlet property="likeButton" destination="G2F-Wz-Xmo" id="Win-Sa-aCT"/>
-                <outlet property="likeLabel" destination="hw2-VG-rKr" id="SAF-jS-vpS"/>
+                <outlet property="likeLabel" destination="kqy-vn-ezh" id="9Sc-N0-eCV"/>
                 <outlet property="postImageView" destination="9xv-OO-cgq" id="97x-br-tD6"/>
             </connections>
             <point key="canvasLocation" x="-15" y="129"/>
